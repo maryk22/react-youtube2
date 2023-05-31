@@ -3,8 +3,11 @@ import { useNavigate, useParams } from 'react-router-dom';
 import { BiSearchAlt } from 'react-icons/bi';
 import { Link } from 'react-router-dom';
 import { BsYoutube } from 'react-icons/bs';
+import { HiMoon, HiSun } from 'react-icons/hi';
+import { useDarkMode } from '../context/DarkModeContext';
 
 export default function SeachHeader() {
+  const { darkMode, toggleDarkMode } = useDarkMode();
   const { keyword } = useParams();
   const navigate = useNavigate();
   const [text, setText] = useState('');
@@ -38,6 +41,9 @@ export default function SeachHeader() {
           <BiSearchAlt />
         </button>
       </form>
+      <button className='toggle' onClick={toggleDarkMode}>
+        {darkMode ? <HiMoon /> : <HiSun />}
+      </button>
     </header>
   );
 }
