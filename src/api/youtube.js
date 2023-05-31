@@ -17,7 +17,7 @@ export default class Youtube {
   }
   async videoRelated(id) {
     return this.apiClient
-      .related({
+      .search({
         params: {
           part: 'snippet',
           relatedToVideoId: id,
