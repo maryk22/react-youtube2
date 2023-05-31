@@ -2,7 +2,8 @@ html[data-theme='light'] {
   --color-text: #{$color-black};
   --color-background: #{$bg-white};
   --color-input: #{$color-white};
-  --color-button: #{$color-white};
+  --color-button: #{$color-light-grey};
+  --color-input-border: #{$color-dark-grey};
 }
 
 html[data-theme='dark'] {
@@ -10,4 +11,5 @@ html[data-theme='dark'] {
   --color-background: #{$bg-black};
   --color-input: #{$color-dark-black};
   --color-button: #{$color-light-black};
+  --color-input-border: none;
 }

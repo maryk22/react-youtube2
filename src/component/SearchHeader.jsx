@@ -24,26 +24,28 @@ export default function SeachHeader() {
 
   return (
     <header className='header'>
-      <Link to='/videos' className='logo'>
-        <h1 className='title'>
-          <BsYoutube />
-          Youtube
-        </h1>
-      </Link>
-      <form className='form-search' onSubmit={headleSubmit}>
-        <input
-          type='search'
-          placeholder='input text...'
-          value={text}
-          onChange={headleChange}
-        />
-        <button type='sumbit'>
-          <BiSearchAlt />
+      <div className='inner'>
+        <Link to='/videos' className='logo'>
+          <h1 className='title'>
+            <BsYoutube />
+            Youtube
+          </h1>
+        </Link>
+        <form className='form-search' onSubmit={headleSubmit}>
+          <input
+            type='search'
+            placeholder='검색어를 입력해주세요.'
+            value={text}
+            onChange={headleChange}
+          />
+          <button type='sumbit'>
+            <BiSearchAlt />
+          </button>
+        </form>
+        <button className='toggle' onClick={toggleDarkMode}>
+          {darkMode ? <HiMoon /> : <HiSun />}
         </button>
-      </form>
-      <button className='toggle' onClick={toggleDarkMode}>
-        {darkMode ? <HiMoon /> : <HiSun />}
-      </button>
+      </div>
     </header>
   );
 }

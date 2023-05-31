@@ -9,5 +9,7 @@
 @import 'videoDetail';
 
 .main {
-  padding: 0.5rem;
+  padding: 1rem 0.5rem;
+  max-width: $main-max-width;
+  margin: 0 auto;
 }

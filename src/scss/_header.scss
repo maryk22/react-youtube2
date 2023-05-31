@@ -1,20 +1,26 @@
 .header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0.5rem;
   border-bottom: 1px solid var(--color-text);
+  .inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    max-width: $main-max-width;
+    margin: 0 auto;
+  }
 
   .logo {
     padding: 0.5rem;
     .title {
       display: flex;
       align-items: center;
+      font-weight: 900;
     }
     font-weight: 900;
     svg {
       color: $color-accent;
       margin-right: 0.2rem;
+      margin-top: 2px;
       font-size: 1.8rem;
     }
   }
@@ -22,12 +28,14 @@
     margin: auto;
     display: flex;
     align-items: stretch;
+    border: 1px solid var(--color-input-border);
+    border-radius: 25px;
+    overflow: hidden;
     input {
       background-color: var(--color-input);
-      padding: 0.3rem 0.5rem;
+      padding: 0.3rem 1rem;
       width: 40vw;
       color: var(--color-text);
-      font-size: 1.2rem;
     }
     button {
       background-color: var(--color-button);

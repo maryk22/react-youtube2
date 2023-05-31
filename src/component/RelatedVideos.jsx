@@ -19,6 +19,7 @@ export default function RelatedVideos({ id }) {
 
   return (
     <>
+      <h2 className='title'>연관 동영상</h2>
       {videos && (
         <ul className='list-video'>
           {videos.map((video) => (

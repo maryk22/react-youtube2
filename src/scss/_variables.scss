@@ -3,13 +3,16 @@ $color-white: #fff;
 $color-black: #333;
 $color-light-black: #595858;
 $color-dark-black: #000;
-
+$color-light-grey: #ebe9e9;
+$color-dark-grey: #c3bdbd;
 $bg-black: #333;
 $bg-white: #fff;
 
-$font-base: 14px;
+$font-base: 12px;
 
 // Breakpoints
 $breakpoint-mobile: 375px;
 $breakpoint-tablet: 758px;
 $breakpoint-desktop: 1024px;
+
+$main-max-width: 1500px;

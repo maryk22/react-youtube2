@@ -15,7 +15,7 @@
 @include desktop {
   .detail-area {
     display: grid;
-    grid-template-columns: 1fr minmax(0, 400px);
+    grid-template-columns: 1fr minmax(0, 30%);
     gap: 0 1rem;
     .related {
       margin-top: 0;
@@ -44,7 +44,10 @@
   }
 }
 .related {
-  margin-top: 1rem;
+  margin-top: 2rem;
+  .title {
+    margin: 1rem 0;
+  }
   .list-video {
     grid-template-columns: auto;
     li + li {
@@ -61,8 +64,13 @@
           margin: 0 0 0 0.5rem;
         }
       }
+      .des {
+        min-width: 0;
+      }
+
       .title {
         font-size: 1rem;
+        margin-top: 0;
         @include ellipsis(2);
       }
       .channelTit {
