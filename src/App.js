@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import './scss/style.scss';
+import { Outlet } from 'react-router-dom';
+import SearchHeader from './component/SearchHeader';
+import { useEffect } from 'react';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { YoutubeApiProvider } from './context/YoutubeApiContext';
+const queryClient = new QueryClient();
 
 function App() {
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <SearchHeader />
+      <main className='main'>
+        <YoutubeApiProvider>
+          <QueryClientProvider client={queryClient}>
+            <Outlet />
+          </QueryClientProvider>
+        </YoutubeApiProvider>
+      </main>
+    </>
   );
 }
 

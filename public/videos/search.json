@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1AFi6C2PCNIeMK45yX7Z3gC64Fc",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ptw_dWMoMqM9tdfJSC0U5yFVx-E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iwdq3NtpeFQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T10:00:12Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "비투비(BTOB)의 킬링보이스를 라이브로! – 그리워하다, 너 없인 안 된다, 아름답고도 아프구나, 나의 바람, 두 번째 고백, 기도, 봄날의 기억, 언젠가 | 딩고뮤직",
+        "description": "'나의 바람'으로 돌아온 비투비 많이 사랑해 주길 바람     [선곡리스트] 00:00 오프닝 00:36 그리워하다 02:16 봄날의 기억 03:30 두 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Clhc6fQD8PuCj0x_TKW_hWHsXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zXOoza3sxiw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T09:00:03Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;나의 바람 (Wind And Wish)&#39; Official Music Video",
+        "description": "비투비 (BTOB) - '나의 바람 (Wind And Wish)' Official Music Video Composed by 임현식, 손영진(MosPick) Lyrics by 임현식, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "57-FwibQH6NqD3di2lB4mjdrEh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tUbTOlmUcpY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T10:00:12Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;Finale : 우리들의 콘서트&#39; Stage Cam @ HANYANG UNIVERSITY ERICA",
+        "description": "비투비 (BTOB) - 'Finale : 우리들의 콘서트' Stage Cam @ HANYANG UNIVERSITY ERICA BTOB Official Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUbTOlmUcpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUbTOlmUcpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUbTOlmUcpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GG39H1bfO_7sURbr4EPr953uLAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8anfh0IJ8Z4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T10:57:42Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; BTOB (비투비) - 나의 바람 (Wind And Wish) #엠카운트다운 EP.795 | Mnet 230504 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.795 비투비 - 나의 바람 (BTOB - Wind And ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T10:57:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o52ghdXJrpNMhLzUzjtSf5t3gBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qn54oRYKj-Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T09:00:13Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;Day&amp;Night&#39; LIVE CLIP",
+        "description": "비투비 (BTOB) - 'Day&Night' LIVE CLIP BTOB Official Youtube: https://www.youtube.com/officialbtob BTOB Official Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qn54oRYKj-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qn54oRYKj-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qn54oRYKj-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HWEdVxj1qRdQhBAmQor581omeLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oa-KhbNFFe8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T10:10:00Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;Higher&#39; Stage Cam @ HANYANG UNIVERSITY ERICA",
+        "description": "비투비 (BTOB) - 'Higher' Stage Cam @ HANYANG UNIVERSITY ERICA BTOB Official Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oa-KhbNFFe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oa-KhbNFFe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oa-KhbNFFe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T10:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V-S9lac3HfiGgalKGP8rPfnF9cw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDkjWSt3HOM"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-16T09:00:57Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB(비투비) - &#39;그리워하다&#39; Official Music Video",
+        "description": "BTOB(비투비) - '그리워하다' Official Music Video Download on iTunes Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-16T09:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STKLlCbcGelMi6uqHdbGZ3NR480",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H1kUhyIaBSc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-13T07:50:59Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "BTOB (비투비) - Wind And Wish (나의 바람) | Show! MusicCore | MBC230513방송",
+        "description": "BTOB (비투비) - Wind And Wish (나의 바람) | Show! MusicCore | MBC230513방송 #BTOB #WindAndWish #MBCKPOP ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H1kUhyIaBSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H1kUhyIaBSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1kUhyIaBSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-13T07:50:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2PQvXBHd5wHH6tsgv5T3ycjFqZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "__BFUf_nJl0"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-06T15:00:02Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB(비투비) - 기도(I&#39;ll be your man) Official Music Video",
+        "description": "BTOB(비투비) - 기도(I'll be your man) M/V.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-06T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xu1i7CUURwI6jLqwLUcRpK2uNjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DQtjY3jxaY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T10:00:01Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;나의 바람 (Wind And Wish)&#39; Special Choreography Video",
+        "description": "비투비 (BTOB) - '나의 바람 (Wind And Wish)' Special Choreography Video BTOB Official Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DQtjY3jxaY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DQtjY3jxaY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQtjY3jxaY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Lr1-3Mb_GNLyG-qUML3NcRGZPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hNTXYFb3Je0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T10:20:00Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;나의 바람 (Wind And Wish)&#39; Stage Cam @ HANYANG UNIVERSITY ERICA",
+        "description": "비투비 (BTOB) - '나의 바람 (Wind And Wish)' Stage Cam @ HANYANG UNIVERSITY ERICA BTOB Official Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNTXYFb3Je0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNTXYFb3Je0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNTXYFb3Je0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T10:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MPsimwNPk_63B6r5m--DTKnaRC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "18o7v51Pmqc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T09:30:44Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Wind And Wish - BTOB [Music Bank] | KBS WORLD TV 230505",
+        "description": "MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行 #HongEunChae #LESSERAFIM #LeeChaeMin Fri 17:05 | Re-run : Sun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18o7v51Pmqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18o7v51Pmqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18o7v51Pmqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T09:30:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q5M5cAzWlRkv2-kwRfWD0SMuQpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dr61L9kHrH0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-11T11:21:11Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "BTOB (비투비) - 나의 바람 (Wind And Wish) #엠카운트다운 EP.796 | Mnet 230511 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.796 비투비 - 나의 바람 (BTOB - Wind And ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dr61L9kHrH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dr61L9kHrH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dr61L9kHrH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-11T11:21:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4_cCKc5h9RIkbZt9WaFMKNdKHuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXcUXWL1mJA"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-12T03:00:03Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - &#39;WOW&#39; Official Music Video",
+        "description": "Official Music Video for BTOB's WOW (2012.09.12) 비투비 - WOW 뮤직비디오 Available on iTunes http://bit.ly/T30QLK.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-12T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A4oGPLkNgs9CIsdzxOZ1IAVaJiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FmuHZa6DQOc"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-22T05:00:08Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 비밀(Insane) Official Music Video",
+        "description": "BTOB의 데뷔곡 '비밀(Insane)'의 뮤직비디오 최초공개! '2012년 최고의 기대주'라는 타이틀에 걸맞는 퍼포먼스와 노래실력을 가진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-03-22T05:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eEhAr7cyQSvP6H-LFGt5HmpqXd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P5zOYOytiUM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T10:53:48Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "BTOB(비투비) - Wind And Wish(나의 바람) @인기가요 inkigayo 20230514",
+        "description": "BTOB - Wind And Wish #SBSInkigayo_EP1182 비투비 - 나의 바람 #BTOB #WIND_AND_WISH SBS Inkigayo(인기가요) is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5zOYOytiUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5zOYOytiUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5zOYOytiUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T10:53:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rc5pNJeN14OymNvMB3Vn3vADtJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4y4PAd-GSXM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-07T09:09:23Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "BTOB(비투비) - Wind And Wish(나의 바람) @인기가요 inkigayo 20230507",
+        "description": "BTOB - Wind And Wish #SBSInkigayo_EP1181 비투비 - 나의 바람 #BTOB #WIND_AND_WISH SBS Inkigayo(인기가요) is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4y4PAd-GSXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4y4PAd-GSXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4y4PAd-GSXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-07T09:09:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "31cCH1PdloywdSxmne9S3LIM0Dw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cNxXB9FL5f8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-06T08:00:56Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "BTOB (비투비) - Wind And Wish (나의 바람) | Show! MusicCore | MBC230506방송",
+        "description": "BTOB (비투비) - Wind And Wish (나의 바람) | Show! MusicCore | MBC230506방송 #BTOB #WindAndWish #MBCKPOP ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNxXB9FL5f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNxXB9FL5f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNxXB9FL5f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-06T08:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wRWGOzT4pzr8JG5TXASZzd-bVzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W1VGLvOKeyU"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-23T10:00:30Z",
+        "channelId": "UCV9jstIsnRfKtc5rpMD7lLQ",
+        "title": "[Full Album] 비투비 (BTOB)  - BTOB Best Songs Playlist (2022)",
+        "description": "[Full Album] 비투비 (BTOB) - BTOB Best Songs Playlist (2022) https://youtu.be/W1VGLvOKeyU This is just a non-profit channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W1VGLvOKeyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W1VGLvOKeyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W1VGLvOKeyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cutiepie🌛",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-23T10:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DKFHZAi3vvHAFTJAzuEsqQvmbKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i06rYg2Kqyg"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-17T15:00:32Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 두 번째 고백 (2nd Confession) M/V (PJ Version)",
+        "description": "비투비 두 번째 고백 뮤직비디오 (파자마 버전) BTOB 2nd Confession (PJ Version) Now available on iTunes! America: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-17T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wcuy-8zm9u-jwjaLZgmVbZGF2SM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QCSfTIFbJF4"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-19T15:57:23Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[BTOB - Missing You] Comeback Stage | M COUNTDOWN 171019 EP.545",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.545 - BTOB - Missing You ▷Watch more video clips: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-19T15:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l2ZjoMToeLUwTlmGY7gnU-OW_mE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hXXUT-ls0SU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T09:00:24Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - 비트콤 181화 (&#39;나의 바람 (Wind And Wish)&#39; M/V 촬영 Day 2)",
+        "description": "비투비 (BTOB) - 비트콤 181화 ('나의 바람 (Wind And Wish)' M/V 촬영 Day 2) BTOB Official Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hXXUT-ls0SU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hXXUT-ls0SU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hXXUT-ls0SU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dJ_625Ps4xxLcuxHS9PK1mCXD_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q_CD-4YqQGQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T10:00:14Z",
+        "channelId": "UCFbQ_p8s6WYv5JDDCT91j5A",
+        "title": "『Playlist』 2023 비투비 노래 모음 (신곡 포함!)ㅣ Best Songs of BTOB ㅣ 2시간",
+        "description": "중간광고삭제 / 01:56:05 ✔️ 음악처음부터 / 00:00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "리스펙 뮤직 『Respect Music』",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T10:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F3w2d8vxWgzD6EWkYWs0xRX59kI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0lhOnbq8J2s"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T12:00:11Z",
+        "channelId": "UCru-NhkqWnxg7-b5Q579YfA",
+        "title": "[ENG/JPN] &#39;은광극장&#39; 아님 주의!❌ 리더 몰이가 특기인 비투비의 하루  | 아이돌 인간극장",
+        "description": "비투비 #나의_바람 #아이돌인간극장 리얼과 페이크 그 어딘가에 있는 비투비 은광... 아니 인간극장 대공개   대본 없는 리얼(?)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lhOnbq8J2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lhOnbq8J2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lhOnbq8J2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아이돌 인간극장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GG39H1bfO_7sURbr4EPr953uLAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8anfh0IJ8Z4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T10:57:42Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; BTOB (비투비) - 나의 바람 (Wind And Wish) #엠카운트다운 EP.795 | Mnet 230504 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.795 비투비 - 나의 바람 (BTOB - Wind And ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8anfh0IJ8Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T10:57:42Z"
+      }
+    }
+  ]
+}

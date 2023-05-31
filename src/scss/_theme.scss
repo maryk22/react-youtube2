@@ -1,0 +1,13 @@
+html[data-theme='light'] {
+  --color-text: #{$color-black};
+  --color-background: #{$bg-white};
+  --color-input: #{$color-white};
+  --color-button: #{$color-white};
+}
+
+html[data-theme='dark'] {
+  --color-text: #{$color-white};
+  --color-background: #{$bg-black};
+  --color-input: #{$color-dark-black};
+  --color-button: #{$color-light-black};
+}

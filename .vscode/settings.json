@@ -1,0 +1,25 @@
+{
+  // SASS 설정
+  // 포맷 방식 작성.
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/public/assets/css"
+    },
+    {
+      // 참조 문서에서 압축관련 확인
+      "format": "compressed",
+      // output 파일
+      "extensionName": ".min.css",
+      // output 파일경로
+      "savePath": "/public/assets/css"
+    }
+  ],
+  // 특정폴더를 제외한다. 폴더 내의 모든 sass/scss 파일을 무시한다.
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  // map 파일 사용 유무(Default : true) - 소스맵 사용안할 경우 false로 설정 [map] 파일 및 주석 생기지 않게 처리
+  "liveSassCompile.settings.generateMap": true,
+  // 자동 밴더 프리픽스 사용하게 해줌.
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"]
+}

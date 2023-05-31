@@ -1,0 +1,31 @@
+.list-video {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, auto));
+  gap: 0 0.5rem;
+  a {
+    display: block;
+  }
+  .thumbnail {
+    width: 100%;
+  }
+  .des {
+    margin: 1rem 0;
+    .title {
+      font: {
+        size: 1.2rem;
+      }
+      margin-bottom: 1rem;
+    }
+    .channelTit {
+      margin-bottom: 0.5rem;
+      font: {
+        size: 0.9rem;
+      }
+    }
+    .date {
+      font: {
+        size: 0.9rem;
+      }
+    }
+  }
+}

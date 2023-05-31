@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@import 'variables';
+@import 'mixin';
+@import 'theme';
+@import 'reset';
+@import 'header';
+@import 'videoCard';
+@import 'videoDetail';
+
+.main {
+  padding: 0.5rem;
+}
